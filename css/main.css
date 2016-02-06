@@ -168,10 +168,11 @@ CONTAINER
 	position: absolute;
 	width: 100%;
 	height: 100%;	
-	background-image: url("../img/quote.png");
+	background-image: url("../img/quote1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	opacity: 0.65;
+	background-position: center;
+	opacity: 0.85;
 }
 
 /********
